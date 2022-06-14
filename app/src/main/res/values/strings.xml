@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fruits</string>
+    <string name="f1">Maça</string>
+    <string name="f2">Uva</string>
+    <string name="f3">Pera</string>
+    <string name="f4">Abacaxi</string>
+</resources>
