@@ -13,4 +13,10 @@
             tools:listitem="@layout/fruits_item"
             android:scrollbars="vertical"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+        <Button
+            android:id="@+id/button_next"
+            android:layout_width="94dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end" />
 </FrameLayout>

@@ -15,8 +15,7 @@
             android:layout_width="380dp"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:padding="16dp"
-            android:textAppearance="?attr/textAppearanceHeadline6" />
+            android:padding="16dp"/>
 
         <ImageView
             android:id="@+id/item_image"
